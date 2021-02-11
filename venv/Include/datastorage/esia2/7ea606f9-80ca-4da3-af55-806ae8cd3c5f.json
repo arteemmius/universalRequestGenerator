@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Надёжный",
+   "ext_source":"esia",
+   "sso_id":"89aaf933-4552-4da8-86c0-b21eb4a1c4fd",
+   "ext_snils":"58355124506",
+   "ext_id":"1fa189b3-3bf1-4e91-9e7d-67707f980df3",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"62471896",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"62471896",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"18.07.1989",
+   "ext_trusted":"true",
+   "ext_firstName":"Корень",
+   "ext_inn":"696937687838",
+   "ext_middleName":"Лейбницович",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"1fa189b3-3bf1-4e91-9e7d-67707f980df3",
+}

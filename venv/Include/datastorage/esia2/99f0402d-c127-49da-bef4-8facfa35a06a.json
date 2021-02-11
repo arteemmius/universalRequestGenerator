@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Прорицательский",
+   "ext_source":"esia",
+   "sso_id":"57b04754-748b-4b4b-8e81-6b4fa237b482",
+   "ext_snils":"95334967349",
+   "ext_id":"2e46c276-6710-4d9b-910e-cfbb097d3603",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"75948779",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"75948779",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"17.08.1930",
+   "ext_trusted":"true",
+   "ext_firstName":"Союз",
+   "ext_inn":"905294688623",
+   "ext_middleName":"Сократович",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"2e46c276-6710-4d9b-910e-cfbb097d3603",
+}

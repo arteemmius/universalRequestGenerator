@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Спартанский",
+   "ext_source":"esia",
+   "sso_id":"4f60b6f1-57de-4fcc-939b-a41e6edcdf06",
+   "ext_snils":"51315312427",
+   "ext_id":"7caee0c8-27ca-4279-8271-e075b725aa7d",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"78555429",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"78555429",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"13.04.1906",
+   "ext_trusted":"true",
+   "ext_firstName":"Обелиск",
+   "ext_inn":"259118483726",
+   "ext_middleName":"Кантович",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"7caee0c8-27ca-4279-8271-e075b725aa7d",
+}

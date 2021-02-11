@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"$LastName0",
+   "ext_source":"esia",
+   "sso_id":"$SSO0",
+   "ext_snils":"$Snils0",
+   "ext_id":"$ESIA0",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"$NUM8",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"$NUM8",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"$Birthday0",
+   "ext_trusted":"true",
+   "ext_firstName":"$FirstName0",
+   "ext_inn":"$Inn0",
+   "ext_middleName":"$MiddleName0",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"$ESIA0",
+}

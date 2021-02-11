@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Блестящий",
+   "ext_source":"esia",
+   "sso_id":"27a65fbd-4209-4aa8-9e25-6c016eba055c",
+   "ext_snils":"64905918633",
+   "ext_id":"6316b883-eba0-48ce-8e98-282de0ba78c3",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"95129843",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"95129843",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"19.08.1931",
+   "ext_trusted":"true",
+   "ext_firstName":"Ошейник",
+   "ext_inn":"138071212600",
+   "ext_middleName":"Лейбницович",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"6316b883-eba0-48ce-8e98-282de0ba78c3",
+}

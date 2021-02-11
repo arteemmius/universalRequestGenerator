@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Ценный",
+   "ext_source":"esia",
+   "sso_id":"cade1422-7aa7-4e84-93cb-6daa804af7e5",
+   "ext_snils":"76683041836",
+   "ext_id":"6d4957c5-e8ac-43bf-af79-506b7151f6cb",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"17259498",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"17259498",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"26.08.1919",
+   "ext_trusted":"true",
+   "ext_firstName":"Центр",
+   "ext_inn":"757336350204",
+   "ext_middleName":"Бодрийярович",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"6d4957c5-e8ac-43bf-af79-506b7151f6cb",
+}

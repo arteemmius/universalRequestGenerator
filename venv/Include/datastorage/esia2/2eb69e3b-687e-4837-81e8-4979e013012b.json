@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Брошенный",
+   "ext_source":"esia",
+   "sso_id":"538e0c1c-042f-4a88-b6ca-cc59959c2228",
+   "ext_snils":"32301038296",
+   "ext_id":"88f268da-a975-4926-8db1-6c33d06d94a3",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"49993343",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"49993343",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"16.08.1920",
+   "ext_trusted":"true",
+   "ext_firstName":"Ученик",
+   "ext_inn":"309765636612",
+   "ext_middleName":"Аврелиевич",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"88f268da-a975-4926-8db1-6c33d06d94a3",
+}

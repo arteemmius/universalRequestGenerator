@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Переливающийся",
+   "ext_source":"esia",
+   "sso_id":"ed62974b-dc05-417e-987b-9ff9c26cf83f",
+   "ext_snils":"66908528045",
+   "ext_id":"8653f2c1-fd5b-4f26-bab4-7409e0108ad1",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"44512289",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"44512289",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"19.05.1964",
+   "ext_trusted":"true",
+   "ext_firstName":"Покров",
+   "ext_inn":"855872149724",
+   "ext_middleName":"Оккамович",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"8653f2c1-fd5b-4f26-bab4-7409e0108ad1",
+}

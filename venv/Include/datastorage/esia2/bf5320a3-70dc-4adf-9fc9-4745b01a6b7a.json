@@ -1,0 +1,43 @@
+{
+   "req_type":"confirm",
+   "ext_birthPlace":"Погар, Брянская область",
+   "ext_lastName":"Тяжёлый",
+   "ext_source":"esia",
+   "sso_id":"c45e88ff-8b0e-426c-9a92-f70242ae29bd",
+   "ext_snils":"11844111126",
+   "ext_id":"da8f98a7-1477-4472-a50a-7ef00fc72db3",
+   "ext_documents":[
+      {
+         "type":"1000029",
+         "series":"39271469",
+         "number":"576",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"325324",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"25.05.2027"
+      },
+      {
+         "type":"1000037",
+         "series":"453",
+         "number":"39271469",
+         "type_country":"RF",
+         "issueDate":"13.04.2016",
+         "issueId":"326333",
+         "issuedBy":"Отделение УФМС России по гор. Москве по району Замоскворечье",
+         "verified":"true",
+         "expiryDate":"28.05.2027"
+      },
+   ],
+   "ext_email":"butynko.maria2@yandex.ru",
+   "ext_mobile":"+7(964)4634211",
+   "ext_birthDate":"13.01.1930",
+   "ext_trusted":"true",
+   "ext_firstName":"Скандал",
+   "ext_inn":"715495672504",
+   "ext_middleName":"Архимедович",
+   "ext_gender":"F",
+   "ext_citizenship":"RUS",
+   "esiaid":"da8f98a7-1477-4472-a50a-7ef00fc72db3",
+}
